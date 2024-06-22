@@ -1,0 +1,17 @@
+{
+	"name": "Mouse clicker",
+	"short_name": "Mouse clicker",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Vector 28.png",
+			"sizes": "195x255",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
